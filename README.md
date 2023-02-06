@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marjorie</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [md-Links](https://github.com/MarjorieAlonso/DEV001-md-links)
+- 🔭 Actualmente estoy trabajando en  [md-Links](https://github.com/MarjorieAlonso/DEV001-md-links)
 
-- 📫 How to reach me **mayitodraven@gmail.com**
+- 📫 Puedes ubicarme en  **mayitodraven@gmail.com**
 
-- ⚡ Fun fact **Me gusta cantar y bailar**
+- ⚡Hobbies **Me gusta cantar,bailar, tejer y ver series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
