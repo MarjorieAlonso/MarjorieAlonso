@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marjorie</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">Una apasionada  frontend developer from Chile</h3>
 
-- 🔭 Actualmente estoy trabajando en  [md-Links](https://github.com/MarjorieAlonso/DEV001-md-links)
+- 🔭 Actualmente estoy trabajando en  [notes](https://github.com/MarjorieAlonso/DEV001-notes)
 
 - 📫 Puedes ubicarme en  **mayitodraven@gmail.com**
 
