@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Marjorie Alonso</h1>
 <h3 align="center">Una apasionada Front end de Chile</h3>
 
-- 🌱 Actualmente estoy aprendiendo **sobre React js**
+- 🌱 Actualmente estoy aprendiendo **sobre Java**
 
 - 📫 Me puedes encontrar en  **mayitodraven@gmail.com**
 
